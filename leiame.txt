@@ -1,0 +1,7 @@
+# transforming-into-a-programmer
+Transformando-se em programador:
+
+Repositório contendo exercícios de fixação da lógica de programação na linguagem C.
+
+Aproveite!
+-----------------------------------------------------------------------------------------------------------------------------------
